@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "firstname": "Avinash",
+      "surname": "Bhasuru",
+      "Age": 22,
+      "Hobbies": [
+        "watching Cricket",
+        "Reading"
+      ],
+      "friends": [
+        {
+          "firstname": "Abdul",
+          "surname": "Mohammad"
+        }
+      ]
+    },
+    {
+      "firstname": "Sai Sravan",
+      "surname": "Bhasuru",
+      "Age": 24
+    }
+  ],
+  "Roles": [
+    {
+      "Designation": "QA Tester",
+      "id": 1209
+    },
+    {
+      "Designation": "IT Admin",
+      "id": 1210
+    }
+  ]
+}
